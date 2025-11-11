@@ -1,1 +1,3 @@
 # PracticeEIM
+
+nume prenume grupa
